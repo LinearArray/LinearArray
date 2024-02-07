@@ -1,4 +1,4 @@
 ### Hi there 👋
-![nyanCat](https://media.tenor.com/xzjlrhYq_lQAAAAj/cat-nyan-cat.gif)
+![Mirai](https://i.pinimg.com/originals/94/39/c2/9439c2c772ee1d0ab6e5ca770bdfc458.gif)
 
 I'm LinearArray - a software engineer, cybersecurity researcher, student & Reddit/Discord mod. 
