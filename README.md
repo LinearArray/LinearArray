@@ -11,6 +11,10 @@ I'm LinearArray - a software engineer, cybersecurity researcher, student & Reddi
 
 ### More Stuff
 
+<div align="center">
+  <img src="https://64.media.tumblr.com/822faf1eaaab7c54f33f5c9a5123b80e/dddd5b09affe7a7b-83/s540x810/18860b0ba17dbfe40360e0141e1010714a04e721.gif" alt="Mirai GIF">
+</div>
+
 **Languages** : Typescript, Javascript, Golang, Assembly, Java, Swift & Python.
 
 **IDE** : Visual Studio Code, Neovim, XCode & PyCharm.
