@@ -6,4 +6,5 @@
 
 <div> </div>
 
-I'm LinearArray - a software engineer, cybersecurity researcher, student & Reddit/Discord mod. 
+### About Me
+I'm LinearArray - a software engineer, cybersecurity researcher, student & Reddit/Discord mod. You can find me on Reddit [here](https://www.reddit.com/user/LinearArray), I'm mostly active there. I love to code, build stuff & play games or watch anime in my free time.
