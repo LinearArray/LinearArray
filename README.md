@@ -12,7 +12,7 @@ I'm LinearArray - a software engineer, cybersecurity researcher, student & Reddi
 ### More Stuff
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/50/a6/08/50a608d8797254065ad20bf77c619369.gif" alt="GIF">
+  <img src="https://i.pinimg.com/originals/c8/a0/7d/c8a07da11ebadf86f488b4bff6f570f4.gif" alt="GIF">
 </div>
 
 **Languages** : Typescript, Javascript, Golang, Assembly, Java, Swift & Python.
