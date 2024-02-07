@@ -21,3 +21,4 @@ I'm LinearArray - a software engineer, cybersecurity researcher, student & Reddi
 
 **OS** : Arch Linux, EndeavourOS, Mint, Windows 11, iOS, Android & MacOS.
 
+### Contact Me
