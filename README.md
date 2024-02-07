@@ -12,6 +12,8 @@ I'm LinearArray - a software engineer, cybersecurity researcher, student & Reddi
 ### More Stuff
 
 **Languages** : Typescript, Javascript, Golang, Assembly, Java, Swift & Python.
+
 **IDE** : Visual Studio Code, Neovim, XCode & PyCharm.
+
 **OS** : Arch Linux, EndeavourOS, Mint, Windows 11, iOS, Android & MacOS.
 
