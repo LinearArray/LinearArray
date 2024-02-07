@@ -8,3 +8,10 @@
 
 ### About Me
 I'm LinearArray - a software engineer, cybersecurity researcher, student & Reddit/Discord mod. You can find me on Reddit [here](https://www.reddit.com/user/LinearArray), I'm mostly active there. I love to code, build stuff & play games or watch anime in my free time.
+
+### More Stuff
+
+**Languages** : Typescript, Javascript, Golang, Assembly, Java, Swift & Python.
+**IDE** : Visual Studio Code, Neovim, XCode & PyCharm.
+**OS** : Arch Linux, EndeavourOS, Mint, Windows 11, iOS, Android & MacOS.
+
