@@ -22,5 +22,3 @@ I'm LinearArray - a software engineer, cybersecurity researcher, student & Reddi
 **Reddit** : [/u/LinearArray](https://www.reddit.com/user/LinearArray/)
 
 **Discord** : [@LinearArray](https://discordapp.com/users/1196740700755218445)
-
-**Twitter/X** : [@LinearArray](https://x.com/lineararray)
